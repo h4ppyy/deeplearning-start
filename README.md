@@ -5,7 +5,7 @@
 git clone https://github.com/h4ppyy/deeplearning-start
 cd deeplearning-start
 
-python -m venv
+python -m venv venv
 
 # for windows
 venv\Scripts\activate
