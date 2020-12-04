@@ -4,3 +4,5 @@ matplotlib==3.3.3
 # matplotlib bug fix for windows 10
 # https://stackoverflow.com/questions/64729944/runtimeerror-the-current-numpy-installation-fails-to-pass-a-sanity-check-due-to
 numpy==1.19.3
+
+tensorflow
